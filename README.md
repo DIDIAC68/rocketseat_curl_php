@@ -1,4 +1,3 @@
-"# rocketseat_curl_php" 
 
 # Após o arquivo .php colocar esse parametro, ex:?lista=1111111111111111|07|2033|899
 
