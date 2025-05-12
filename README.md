@@ -4,6 +4,6 @@
 
 # Para utilizar essa api é obrigatório, passar o cc,mes,ano e cvv, caso contrário não irá funcionar :ex 1111111111111111|07|2033|899
 
-# Iráretornar a resposta da api em um json.
+# Irá retornar a resposta da api em um json.
 
 # Feito apenas para fins de aprendizado e testes, não me responsabilizo por suas ações.
