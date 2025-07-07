@@ -1,11 +1,28 @@
-# Api PHP utilizando Curl, Simulando Requisições ao Site da Rocketseat, e Fazendo a Compra do Curso Utilizando Cartão de Crédito.
-# Desenvolvedor: Diego
-@DIDIDEV ou @DIDIAC68
+API em PHP para Simulação de Compra na Rocketseat
+Desenvolvido por Diego
+GitHub: @DIDIDEV · Alias: @DIDIAC68
 
-# Após o arquivo .php colocar esse parametro, ex:?lista=1111111111111111|07|2033|899
+📌 Descrição
+Esta API em PHP utiliza cURL para simular requisições ao site da Rocketseat, realizando uma tentativa de compra de curso via cartão de crédito.
 
-# Para utilizar essa api é obrigatório, passar o cc,mes,ano e cvv, caso contrário não irá funcionar :ex 1111111111111111|07|2033|899
+A finalidade principal é educacional, com foco em estudo e testes de integração com sistemas de pagamento e automação de requisições web.
 
-# Irá retornar a resposta da api em um json.
+🚀 Como Usar
+Para utilizar a API, é necessário acessar o script PHP com os parâmetros do cartão diretamente na URL, como no exemplo:
 
-# Feito apenas para fins de aprendizado e testes, não me responsabilizo por suas ações.
+rocket.php?lista=1111111111111111|07|2033|899
+📥 Parâmetro obrigatório
+lista: Dados do cartão no formato:
+
+número_do_cartão|mês|ano|cvv
+Exemplo válido:
+
+1111111111111111|07|2033|899
+Caso qualquer um dos campos esteja ausente ou mal formatado, a API não funcionará corretamente.
+
+📦 Retorno da API
+A resposta será retornada em JSON, com o resultado da tentativa de requisição de compra.
+
+⚠️ Aviso Legal
+Esta aplicação foi desenvolvida apenas para fins de aprendizado e testes.
+Não me responsabilizo por qualquer uso indevido deste código.
