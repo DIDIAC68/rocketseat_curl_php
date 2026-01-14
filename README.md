@@ -1,6 +1,6 @@
 API em PHP para Simulação de Compra na Rocketseat
 Desenvolvido por Diego
-GitHub: @DIDIDEV · Alias: @DIDIAC68
+GitHub: @DIDIAC68
 
 📌 Descrição
 Esta API em PHP utiliza cURL para simular requisições ao site da Rocketseat, realizando uma tentativa de compra de curso via cartão de crédito.
