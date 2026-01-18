@@ -1,5 +1,5 @@
 API em PHP para Simulação de Compra na Rocketseat
-Desenvolvido por Diego
+
 GitHub: @DIDIAC68
 
 📌 Descrição
